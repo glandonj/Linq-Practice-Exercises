@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B7E6EE8E-1163-42B1-A4B4-ED2920B58E3B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Linq_220Practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Linq Practice/Program.cs">
+    <Files>
+      <File FileName="Linq Practice/Program.cs" Line="29" Column="130" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Linq Practice" expanded="True">
+            <Node name="Linq Practice" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
